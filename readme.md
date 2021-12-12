@@ -1,7 +1,7 @@
-#<center><font color =#c86f67>金山打字王</font></center>
+# 金山打字王
 ***
-##<u>一款可以自定义你打字速度的小程序</u>
-##<u><font size = 4>制作人：TUST-ZYM</font>
+## 一款可以自定义你打字速度的小程序
+## <u><font size = 4>制作人：TUST-ZYM</font>
 ***
 * 依赖环境 
 * 使用方法

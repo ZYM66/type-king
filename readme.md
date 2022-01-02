@@ -4,6 +4,7 @@
 ## <u><font size = 4>制作人：TUST-ZYM</font>
 ***
 * 依赖环境 
+* 适用网站：https://dz.wubidz.cn/
 * 使用方法
 > 依赖环境
 >> 依赖于**selenium**库，在安装**selenium**库前，请安装对应谷歌浏览器的**chromedriver**

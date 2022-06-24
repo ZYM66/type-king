@@ -1,7 +1,7 @@
 # 金山打字王
 ***
 ## 一款可以自定义你打字速度的小程序
-## <u><font size = 4>制作人：TUST-ZYM</font>
+## <u><font size = 4>制作人：ZYM</font>
 ***
 * 依赖环境 
 * 适用网站：https://dz.wubidz.cn/
